@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: cornsilk;
+}
+.main-container{
+    width: 750px;
+    margin-left: auto ;
+    margin-right: auto;
+    text-align: center;
+}
+.container{
+box-shadow: 10px 5px 5px rgb(236, 201, 57);
+border: 2px solid rgb(155, 125, 7);
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%,-50%);
+width: 750px;
+background: white;
+}
+h4{
+    font-size: 30px;
+    margin: 20px;
+    color: rgb(155, 125, 7);
+}
+h1{
+    font-size: 90px;
+    margin: 20px;
+}
+button{
+    font-size: 30px;
+    margin: 30px;
+    width: 300px;
+    color: rgb(12, 1, 5);
+    background: rgb(245, 174, 174);
+}
+
+
